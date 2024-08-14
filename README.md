@@ -54,35 +54,55 @@ Welcome to the **Cypher Setup Collection**—a valuable resource featuring effec
 
 ## Terms and Conditions
 
-### © [2024] [ShadowDemon/ShadowDemonWasTaken™]. All Rights Reserved.
+### © 2024 ShadowDemon/ShadowDemonWasTaken™. All Rights Reserved.
 
 This document is provided for informational purposes only and is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). By using, distributing, or modifying this document, you agree to the following terms and conditions:
 
-1. **Attribution**: Proper credit must be given to the original creator, ShadowDemon/ShadowDemonWasTaken™, and the document’s source. You must retain the following if provided:
-   - Identification of the creator(s) and any others designated to receive attribution.
-   - A copyright notice.
-   - A notice that refers to this license.
-   - A notice that refers to the disclaimer of warranties.
-   - A URI or hyperlink to the document, if reasonably practicable.
+### 1. Attribution
 
-2. **Retention of Information**: Any alterations to this document must retain all original copyright and ownership information. Embedded links within this document must remain intact and unaltered.
+You may:
+- **Use**: Distribute and modify the document.
+- **Credit**: Properly attribute the original creator, ShadowDemon/ShadowDemonWasTaken™, and include the source of the document. Ensure you retain the following if provided:
+  - Identification of the creator(s) and any others designated to receive attribution.
+  - A copyright notice.
+  - A notice that refers to this license.
+  - A notice that refers to the disclaimer of warranties.
+  - A URI or hyperlink to the document, if reasonably practicable.
 
-3. **Prohibited Actions**: Unauthorized removal or modification of links, copyright statements, or creator information is strictly prohibited.
+### 2. Modification
 
-4. **Permissible Use**:
-   - You may reproduce, distribute, and modify this document under the terms of this license.
-   - Any adapted material created from this document must be shared under the same or a compatible license.
+You may:
+- **Modify**: Alter the document as needed.
+- **Retain**: Keep all original copyright notices and ownership statements.
+- **Integrity**: Ensure modifications do not obscure or remove copyright or creator rights information.
+- **Public Availability**: Make all modifications publicly available and notify the original creator.
 
-5. **Disclaimer of Warranties**:
-   - The document is provided "as-is," without any warranties of any kind, express or implied. This includes, but is not limited to, warranties of title, merchantability, fitness for a particular purpose, and non-infringement.
+### 3. Embedded Links
 
-6. **Limitation of Liability**:
-   - To the fullest extent permitted by law, the creator, ShadowDemon/ShadowDemonWasTaken™, shall not be liable for any damages arising from the use of this document, even if advised of the possibility of such damages.
+You must:
+- **Preserve Links**: Keep all embedded links intact and unaltered.
 
-7. **Contact Information**:
-   - For inquiries regarding permissions beyond the scope of this license, please contact the original creator:
-     - **Email**: [your-email@example.com]
-     - **Socials**: [ShadowDemon.carrd.co](https://shadowdemon.carrd.co)
+### 4. Restrictions
+
+The following are strictly prohibited:
+- **Unauthorized Alterations**: Removal or modification of copyright statements, creator information, or links.
+- **Misuse**: Any use that violates these terms.
+
+### 5. Disclaimer of Warranties
+
+- The document is provided "as-is," without any warranties of any kind, express or implied. This includes, but is not limited to, warranties of title, merchantability, fitness for a particular purpose, and non-infringement.
+
+### 6. Limitation of Liability
+
+- To the fullest extent permitted by law, the creator, ShadowDemon/ShadowDemonWasTaken™, shall not be liable for any damages arising from the use of this document, even if advised of the possibility of such damages.
+
+### 7. Permissions Beyond Scope
+
+For uses beyond this license:
+- **Contact**: Obtain explicit permission from the original creator.
+
+   - **Email**: [your-email@example.com]
+   - **Socials**: [ShadowDemon.carrd.co](https://shadowdemon.carrd.co)
 
 ### Creative Commons Attribution-ShareAlike 4.0 International License
 
@@ -101,7 +121,6 @@ By using this document, you acknowledge and agree to comply with the terms of th
 ---
 
 **Creative Commons Contact Information**: Creative Commons is not a party to its public licenses. For more information, visit [Creative Commons](https://creativecommons.org).
-
 
 ## Contact Information
 

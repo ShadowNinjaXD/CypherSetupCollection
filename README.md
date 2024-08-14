@@ -42,6 +42,19 @@ The following are strictly prohibited:
 For uses beyond this license:
 - **Contact**: Obtain explicit permission from the original creator.
 
+## Notice and Additional Terms
+
+This document is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). The full text of the license can be found [here](https://creativecommons.org/licenses/by-sa/4.0/).
+
+© 2024 Shadow Demon. All rights reserved.
+
+### Additional Conditions
+
+- This document is provided for informational purposes only and may be used, distributed, and modified under the condition that proper credit is given to the original creator and the document's source.
+- Any alterations must retain all original copyright and ownership information, and any embedded links within this document must remain intact and unaltered.
+- Unauthorized removal or modification of links, copyright statements, or creator information is strictly prohibited.
+- For any inquiries regarding permissions beyond the scope of this statement, please contact the original creator.
+
 ## Contact Information
 
 For questions, additional permissions, or clarifications, please reach out to:

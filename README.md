@@ -6,6 +6,52 @@
 
 Welcome to the **Cypher Setup Collection**—a valuable resource featuring effective lineups and setups for Cypher in Valorant. Enhance your gameplay with these strategic placements and tactics.
 
+## Document Status
+
+### Ascent
+- **Status**: Complete for now
+- **Details**: Includes tripwires and one-way setups for A and B sites, and post-plant one-ways.
+
+### Abyss
+- **Status**: Complete for now/Ideally needs updates
+- **Details**: Includes tripwires and camera setups for A and B sites, as well as mid-tripwires.
+
+### Split
+- **Status**: Needs images/On hold until further notice/Not in current map pool
+
+### Bind
+- **Status**: Complete for now
+- **Details**: Includes tripwires, one-ways, and teleport setups for A and B sites.
+
+### Haven
+- **Status**: Needs images
+- **Details**: Includes tripwires for A site.
+
+### Sunset
+- **Status**: Needs images
+
+### Lotus
+- **Status**: Sorted/Requires update (Post Lotus update)
+- **Details**: Includes tripwires and one-ways for A, B, and C sites.
+
+### Breeze
+- **Status**: Sorted/Not enough images
+- **Details**: Includes tripwires, one-ways, and cameras for A and B sites.
+
+### Icebox
+- **Status**: In development/Needs images
+- **Details**: Includes tripwires and post-plant one-ways, with some areas needing image updates.
+
+### Fracture
+- **Status**: In development
+- **Details**: Includes tripwires and one-ways for A and B sites, and specific site setups.
+
+### Pearl
+- **Status**: Needs images
+
+### Template
+- **Status**: In development
+
 ## Terms and Conditions
 
 ### 1. All Rights Reserved

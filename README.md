@@ -4,7 +4,7 @@
 
 ## Overview
 
-Welcome to the **Cypher Setup Collection**—your go-to resource for effective lineups and setups for Cypher in Valorant. Elevate your gameplay with these strategic placements and tactics.
+Welcome to the **Cypher Setup Collection**—your go-to resource for effective lineups and setups for Cypher in Valorant.
 
 ## Document Status
 
@@ -69,7 +69,7 @@ The following are prohibited:
 
 For uses beyond this license:
 - **Contact**: Obtain explicit permission from the original creator.
-  - **Email**: [your-email@example.com]
+  - **Email**: [shadowdemoninc@gmail.com]
   - **Socials**: [ShadowDemon.carrd.co](https://shadowdemon.carrd.co)
 
 ## Creative Commons Attribution-ShareAlike 4.0 International License
@@ -91,7 +91,7 @@ By using this document, you acknowledge and agree to comply with the terms of th
 For questions, permissions beyond the scope of this license, or further clarifications, please contact:
 
 - **Original Creator**: Shadow Demon
-- **Contact Email**: [your-email@example.com]
+- **Contact Email**: [shadowdemoninc@gmail.com]
 - **Socials**: [ShadowDemon.carrd.co](https://shadowdemon.carrd.co)
 
 ## License Summary

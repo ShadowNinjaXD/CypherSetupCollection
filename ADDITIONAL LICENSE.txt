@@ -1,0 +1,50 @@
+Cypher Setup Collection License
+
+© 2024 Shadow Demon. Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+Overview
+
+This license applies to the **Cypher Setup Collection** document created by Shadow Demon, a pseudonymous identity of the content creator. The document provides lineups, tripwires, one-way setups, and other strategic information for use in the game: Valorant.
+
+License Terms
+
+This document is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). By using, distributing, or modifying this document, you agree to the following terms:
+
+1. Attribution
+   - You are free to use, copy, distribute, and modify the document for any purpose.
+   - Proper attribution must be given to the original creator, Shadow Demon. This includes:
+     - Identifying Shadow Demon as the creator of the document.
+     - Retaining all copyright notices and other attribution details.
+     - Providing a link to the license and indicating if changes were made.
+     - Including a URI or hyperlink to the document if reasonably practicable.
+
+2. Modification
+   - You may alter the document as needed.
+   - All original copyright notices and ownership statements must be retained.
+   - Modifications must not obscure or remove copyright or creator rights information.
+   - Any modifications must be shared publicly under the same license, and the original creator must be notified.
+
+3. Embedded Links
+   - All embedded links within the document must remain intact and unaltered.
+
+4. Restrictions
+   - Unauthorized alterations of copyright statements, creator information, or embedded links are prohibited.
+   - Any misuse of the document that violates these terms or the integrity of the original content is prohibited.
+
+5. Disclaimer of Warranties
+   - The document is provided "as-is," without any warranties or guarantees of any kind, express or implied. This includes, but is not limited to, warranties of title, merchantability, fitness for a particular purpose, and non-infringement.
+
+6. Limitation of Liability
+   - To the fullest extent permitted by law, Shadow Demon shall not be liable for any damages arising from the use of this document, even if advised of the possibility of such damages.
+
+7. Permissions Beyond Scope
+   - For uses beyond this license, explicit permission must be obtained from the original creator.
+      Email: ShadowDemonInc@gmail.com 
+      Socials: ShadowDemon.carrd.co
+      Available at: github.com/ShadowNinjaXD/CypherSetupCollection 
+
+Note on Pen Name
+
+Please be advised that "Shadow Demon" is a pen name used for the purposes of this document. The use of this pseudonymous identity is a choice of the creator to maintain anonymity and does not affect the validity of the document's content or licensing terms. For inquiries or correspondence, please use the contact details provided above.
+
+By using this document, you acknowledge and agree to comply with the terms outlined above. Thank you for respecting the creator's rights.
